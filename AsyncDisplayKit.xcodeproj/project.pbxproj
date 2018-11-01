@@ -2727,6 +2727,7 @@
 				OTHER_CFLAGS = (
 					"-Wundef",
 					"-fno-exceptions",
+					"-Wthread-safety-analysis",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = AsyncDisplayKit;
@@ -2759,6 +2760,7 @@
 				OTHER_CFLAGS = (
 					"-Wundef",
 					"-fno-exceptions",
+					"-Wthread-safety-analysis",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = AsyncDisplayKit;
@@ -2879,6 +2881,7 @@
 				OTHER_CFLAGS = (
 					"-Wundef",
 					"-fno-exceptions",
+					"-Wthread-safety-analysis",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = AsyncDisplayKit;
